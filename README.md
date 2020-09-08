@@ -1,6 +1,6 @@
 ## Overview
 This repo is a barebones Hugo website setup with GitHub Actions. On every push to `master`, the workflow `deploy.yml` will build `master` and push `/public` to `gh-pages`. The setup here is the final outcome of this blog post:
-https://www.charlesjlee.com/post/20200517-github-actions/
+https://charlesjlee.com/post/20200517-github-actions/
 
 ## Required changes
 If you fork this repo, there are three changes you need to make:
