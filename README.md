@@ -4,7 +4,7 @@ https://www.charlesjlee.com/post/20200517-github-actions/
 
 ## Required changes
 If you fork this repo, there are three changes you need to make:
-1. Create a deploy key named `ACTIONS_DEPLOY_KEY`. Steps available [here](https://www.charlesjlee.com/post/20200517-github-actions/#3-use-github-actions-to-deploy). This deploy key is used in `.github/workflows/deploy.yml`
+1. Create a deploy key named `ACTIONS_DEPLOY_KEY`. Steps available [here](https://charlesjlee.com/post/20200517-github-actions/#3-use-github-actions-to-deploy). This deploy key is used in `.github/workflows/deploy.yml`
 2. In `.github/workflows/deploy.yml`, update `external_repository` to your username and repo
 3. In `.github/workflows/deploy.yml`, update `user_name` and `user_email`
 
